@@ -3,7 +3,7 @@
 ## Next Version
 
 #### Added
-- Added an ability to set an order of groups via `options.groupOrder` [#480](https://github.com/yonaskolb/XcodeGen/pull/613) @Beniamiiin
+- Added an ability to set an order of groups with `options.groupOrder` [#480](https://github.com/yonaskolb/XcodeGen/pull/613) @Beniamiiin
 
 #### Fixed
 - Fixed issue which caused watch app schemes to be generated incorrectly, preventing these apps from launching. [#798](https://github.com/yonaskolb/XcodeGen/pull/798) @daltonclaybrook
